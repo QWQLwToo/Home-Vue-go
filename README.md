@@ -209,19 +209,6 @@ npm run build
 2. 登录管理界面
 3. 手动导入原有数据，或使用API批量导入
 
-### 文档
-
-- [运行项目指南](./docs/RUN_PROJECT.md) - 如何运行前端和后端（推荐）
-- [快速开始](./docs/QUICK_START.md) - 5步快速启动项目
-- [Go命令学习指南](./docs/GO_COMMANDS.md) - Go命令详解（推荐学习）
-- [Windows设置指南](./docs/WINDOWS_SETUP.md) - Windows专用设置指南
-- [项目结构说明](./docs/PROJECT_STRUCTURE.md) - 详细的目录结构说明
-- [设置指南](./docs/SETUP.md) - 详细的安装和配置步骤
-- [本地调试指南](./docs/LOCAL_DEBUG.md) - 本地调试详细步骤
-- [更新日志](./docs/CHANGELOG.md) - 版本更新记录
-- [图标选择器说明](./docs/ICON_SELECTOR.md) - 图标配置使用指南
-- [故障排查指南](./docs/TROUBLESHOOTING.md) - 常见问题解决方案
-
 ### API文档
 
 #### 公开API（无需认证）
